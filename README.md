@@ -73,7 +73,7 @@ The following OpenGL functions were used to draw and animate objects:
 ## 🖼️ Output Preview
 
 ![Day Scene Output](#)  
-*Add your own screenshot here if available.*
+* screenshot is loading *
 
 ---
 
